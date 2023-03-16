@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ℌieuCM CV</title>
+    <link rel="shortcut icon" href="/assets/img/favicon HH.ico" type="image/x-icon">
+</head>
+<body>
+    <head>
+        <img src="/assets/img/bandmember.jpg" width="200" >
+        <h2>Leap Kolab Kongkea Kunthea</h2>    
+        <p>📍From Campuchia</p>
+        <p>📞+123456789</p>
+        <p>📬leapkolabkongkeakunthea@blabla.com</p>
+        <br>
+    </head>
+    <section>
+        <hr>
+        <h3><i>ĐỊNH HƯỚNG PHÁT TRIỂN CÁ NHÂN</i></h3>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quibusdam tempora voluptatibus molestias iste reprehenderit consequuntur magni, quas iure obcaecati. Eum illum neque eius dolores recusandae accusantium quam cum a molestiae temporibus. Mollitia quam, ad est aliquam maxime repellendus autem vitae.</p>
+
+        <hr>
+        <h3><i>HỌC VẤN</i></h3>
+        <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Voluptatum excepturi aspernatur aliquam sequi reprehenderit repellendus incidunt facilis iste nihil neque!</p>
+
+        <hr>
+        <h3><i>BẰNG CẮP</i></h3>
+        <p>Lorem ipsum dolor sit amet consectetur ait. Cum, nisi?</p>
+        <p>Lorem ipsum dolor sit amet.</p>
+        <hr>
+        <h3><i>KỸ NĂNG</i></h3>
+        <ul>
+            <li>Lorem ipsum dolor sit amet.</li>
+            <li>Lorem ipsum dolor sit amet.</li>
+            <li>Lorem ipsum dolor sit amet.</li>
+            <li>Lorem ipsum dolor sit amet.</li>
+            <li>Lorem ipsum dolor sit amet.</li>
+        </ul>
+        <hr>
+        <h3><i>KINH NGHIỆM</i></h3>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet illum aspernatur ea, eius iure hic adipisci aliquid amet! Sed vitae nam cupiditate molestiae quis cumque, repellat earum ut rem ab.</p>
+    </section>
+    </body>
+</html>
